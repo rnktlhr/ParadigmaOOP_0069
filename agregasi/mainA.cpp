@@ -26,5 +26,4 @@ int main(){
     delete varAnak2;
     delete varAnak3;
 
-    
 }
